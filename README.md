@@ -4,7 +4,7 @@
 
 Crafting scalable systems, solving real-world problems, and sharing my journey in tech.
 
-[Website](https://github.com/mayuka-c) · [Blog](https://your-blog.com) · [LinkedIn](https://www.linkedin.com/in/mayuka-channankaiah-13a5031a0/) · [Instagaram](https://www.instagram.com/mayukachannankaiah?igsh=MWN5Mzc5cGNteGxxaw==) · [Email](mailto:mayuka1999@gmail.com)
+[Website](https://github.com/mayuka-c) · [Blog](https://your-blog.com) · [LinkedIn](https://www.linkedin.com/in/mayuka-channankaiah-13a5031a0/) · [Instagram](https://www.instagram.com/mayukachannankaiah?igsh=MWN5Mzc5cGNteGxxaw==) · [Email](mailto:mayuka1999@gmail.com)
 
 </div>
 
