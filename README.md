@@ -4,7 +4,7 @@
 
 Crafting scalable systems, solving real-world problems, and sharing my journey in tech.
 
-[Website](https://your-website.com) · [Blog](https://your-blog.com) · [LinkedIn](https://www.linkedin.com/in/mayuka-channankaiah-13a5031a0/) · [X/Twitter](https://x.com/your-handle) · [Email](mailto:mayuka1999@gmail.com)
+[Website](https://github.com/mayuka-c) · [Blog](https://your-blog.com) · [LinkedIn](https://www.linkedin.com/in/mayuka-channankaiah-13a5031a0/) · [Instagaram](https://www.instagram.com/mayukachannankaiah?igsh=MWN5Mzc5cGNteGxxaw==) · [Email](mailto:mayuka1999@gmail.com)
 
 </div>
 
@@ -21,38 +21,63 @@ Crafting scalable systems, solving real-world problems, and sharing my journey i
 
 ## Technologies & Tools
 
-**Frontend:** - HTML, CSS, JavaScript, TypeScript - React, TailwindCSS
+**Frontend:**
+	- HTML
+	- CSS
+	- JavaScript
+	- TypeScript
+	- React
+	- TailwindCSS
 
-**Backend:** - Golang, Python, C++
+**Backend:**
+	- Golang
+	- Python
+	- C++
 
-**Databases:** - MySQL, PostgreSQL - DynamoDB, Cassandra, MongoDB
+**Databases:**
+	- MySQL
+	- PostgreSQL
+	- DynamoDB
+	- Cassandra
+	- MongoDB
 
-**Caching:** - Redis
+**Caching:**
+	- Redis
 
-**Cloud & DevOps:** - AWS, Docker, Kubernetes (K8s) - CI/CD, Prometheus, Grafana
+**Cloud & DevOps:**
+	- AWS
+	- Docker
+	- Kubernetes (K8s)
+	- CI/CD
+	- Prometheus
+	- Grafana
 
-**Data & AI:** - Machine Learning, Generative AI, Agentic AI
+**Data & AI:**
+	- Machine Learning
+	- Generative AI
+	- Agentic AI
 
-**Developer Tools:** - Visual Studio Code (VS Code)
+**Developer Tools:**
+	- Visual Studio Code (VS Code)
 
 ## Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mayuka-c&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuka-c&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuka-c&theme=radical&hide_border=true" alt="GitHub Streak" />
-
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=mayuka-c&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+	<br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuka-c&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+	<br><br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuka-c&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+	<br>
 </div>
 
 ## Connect
 
-- 🌐 Website: https://your-website.com
+- 🌐 Website: https://github.com/mayuka-c
 - ✉️ Email: mayuka1999@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mayuka-channankaiah-13a5031a0/
-- 🐦 X/Twitter: https://x.com/your-handle
+- 🐦 Instagram: https://www.instagram.com/mayukachannankaiah?igsh=MWN5Mzc5cGNteGxxaw==
 
 ---
 
