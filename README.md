@@ -63,13 +63,19 @@ Crafting scalable systems, solving real-world problems, and sharing my journey i
 ## Stats
 
 <div align="center">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=mayuka-c&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuka-c&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-	<br><br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuka-c&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-	<br>
+	<table>
+		<tr>
+			<td>
+				<img src="https://github-readme-stats.vercel.app/api?username=mayuka-c&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+			</td>
+			<td>
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuka-c&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+			</td>
+			<td>
+				<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuka-c&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+			</td>
+		</tr>
+	</table>
 </div>
 
 ## Connect
