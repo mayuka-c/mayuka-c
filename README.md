@@ -4,7 +4,7 @@
 
 Crafting scalable systems, solving real-world problems, and sharing my journey in tech.
 
-[Website](https://github.com/mayuka-c) · [Blog](https://your-blog.com) · [LinkedIn](https://www.linkedin.com/in/mayuka-channankaiah-13a5031a0/) · [Instagram](https://www.instagram.com/mayukachannankaiah?igsh=MWN5Mzc5cGNteGxxaw==) · [Email](mailto:mayuka1999@gmail.com)
+[Website](https://github.com/mayuka-c) · [Blog](https://medium.com/@mayuka1999) · [LinkedIn](https://www.linkedin.com/in/mayuka-channankaiah-13a5031a0/) · [Instagram](https://www.instagram.com/mayukachannankaiah?igsh=MWN5Mzc5cGNteGxxaw==) · [Email](mailto:mayuka1999@gmail.com)
 
 </div>
 
@@ -12,53 +12,27 @@ Crafting scalable systems, solving real-world problems, and sharing my journey i
 
 ## About me
 
- - 🔭 Working on: Building scalable backend systems, e-commerce platforms, leaderboard systems, and data reporting tools. Recent projects include [e-commerce](https://github.com/mayuka-c/e-commerce), [leaderboard-system](https://github.com/mayuka-c/leaderboard-system), and [clinicals-data-reporting](https://github.com/mayuka-c/clinicals-data-reporting).
- - 🧠 Learning: Advanced cloud-native architectures, Kubernetes internals, Generative AI, and agentic AI systems.
- - 🤝 Open to: Collaborating on open-source, backend engineering, cloud infrastructure, and AI/ML projects. Happy to review PRs and contribute to community initiatives.
- - 🌍 Location: Bengaluru, India
- - 🎯 Fun fact: I love solving algorithmic challenges and have contributed to major open-source projects like Kubernetes!
-
+- 🔭 Working on: Building scalable backend systems, e-commerce platforms, leaderboard systems, and data reporting tools. Recent projects include [e-commerce](https://github.com/mayuka-c/e-commerce), [leaderboard-system](https://github.com/mayuka-c/leaderboard-system), and [clinicals-data-reporting](https://github.com/mayuka-c/clinicals-data-reporting).
+- 🧠 Learning: Advanced cloud-native architectures, Kubernetes internals, Generative AI, and agentic AI systems.
+- 🤝 Open to: Collaborating on open-source, backend engineering, cloud infrastructure, and AI/ML projects. Happy to review PRs and contribute to community initiatives.
+- 🌍 Location: Bengaluru, India
+- 🎯 Fun fact: I love solving algorithmic challenges and have contributed to major open-source projects like Kubernetes!
 
 ## Technologies & Tools
 
-**Frontend:**
-	- HTML
-	- CSS
-	- JavaScript
-	- TypeScript
-	- React
-	- TailwindCSS
+**Frontend:** - HTML - CSS - SASS - TailwindCSS - JavaScript - TypeScript - React
 
-**Backend:**
-	- Golang
-	- Python
-	- C++
+**Backend:** - Golang - Python - C++
 
-**Databases:**
-	- MySQL
-	- PostgreSQL
-	- DynamoDB
-	- Cassandra
-	- MongoDB
+**Databases:** - MySQL - PostgreSQL - DynamoDB - Cassandra - MongoDB
 
-**Caching:**
-	- Redis
+**Caching:** - Redis
 
-**Cloud & DevOps:**
-	- AWS
-	- Docker
-	- Kubernetes (K8s)
-	- CI/CD
-	- Prometheus
-	- Grafana
+**Cloud & DevOps:** - AWS - Docker - Kubernetes (K8s) - CI/CD - Prometheus - Grafana
 
-**Data & AI:**
-	- Machine Learning
-	- Generative AI
-	- Agentic AI
+**Data & AI:** - Machine Learning - Generative AI - Agentic AI
 
-**Developer Tools:**
-	- Visual Studio Code (VS Code)
+**Developer Tools:** - Visual Studio Code (VS Code)
 
 ## Stats
 
@@ -77,13 +51,6 @@ Crafting scalable systems, solving real-world problems, and sharing my journey i
 		</tr>
 	</table>
 </div>
-
-## Connect
-
-- 🌐 Website: https://github.com/mayuka-c
-- ✉️ Email: mayuka1999@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mayuka-channankaiah-13a5031a0/
-- 🐦 Instagram: https://www.instagram.com/mayukachannankaiah?igsh=MWN5Mzc5cGNteGxxaw==
 
 ---
 
