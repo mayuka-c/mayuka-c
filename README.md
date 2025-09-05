@@ -56,8 +56,7 @@ Crafting scalable systems, solving real-world problems, and sharing my journey i
 
 <div align="center">
 
-If you like my work, consider ⭐ starring repos or
-<a href="https://buymeacoffee.com/mayuka.c">buying me a coffee</a>.
+If you like my work, consider ⭐ starring repos :)
 
 <img src="https://komarev.com/ghpvc/?username=mayuka-c&style=flat&label=Profile+views" alt="Profile views" />
 
