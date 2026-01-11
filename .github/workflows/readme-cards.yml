@@ -37,7 +37,12 @@ jobs:
 
       - name: Generate streak card
         run: |
-          curl -sSL "https://github-readme-streak-stats.herokuapp.com?user=mayuka-c&theme=github-dark&hide_border=true" -o profile/streak.svg
+          url="https://streak-stats.demolab.com/?user=mayuka-c&theme=dark&hide_border=true"
+          mkdir -p profile
+          if ! curl -fsSL "$url" -o profile/streak.svg; then
+            echo "Failed to fetch streak card; writing fallback SVG"
+            echo '<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195"><rect width="100%" height="100%" fill="#0D1117"/><text x="50%" y="50%" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="16" text-anchor="middle" dominant-baseline="middle">Streak unavailable (API limit)</text></svg>' > profile/streak.svg
+          fi
 
       - name: Commit cards
         run: |
