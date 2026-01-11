@@ -22,7 +22,7 @@ Crafting scalable systems, solving real-world problems, and sharing my journey i
 
 **Frontend:** - HTML - CSS - SASS - TailwindCSS - JavaScript - TypeScript - React
 
-**Backend:** - Golang - Python - C++
+**Backend:** - Golang - Java - Python - C++ - Ruby
 
 **Databases:** - MySQL - PostgreSQL - DynamoDB - Cassandra - MongoDB
 
@@ -40,13 +40,13 @@ Crafting scalable systems, solving real-world problems, and sharing my journey i
 	<table>
 		<tr>
 			<td>
-				<img src="https://github-readme-stats.vercel.app/api?username=mayuka-c&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+				<img src="./profile/stats.svg" alt="GitHub Stats" />
 			</td>
 			<td>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuka-c&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+				<img src="./profile/top-langs.svg" alt="Top Languages" />
 			</td>
 			<td>
-				<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuka-c&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+				<img src="./profile/streak.svg" alt="GitHub Streak" />
 			</td>
 		</tr>
 	</table>
